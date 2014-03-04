@@ -1,4 +1,11 @@
+
+What's this?
 ==========================
+Simple fork of [Marlin](https://github.com/ErikZalm/Marlin) with configuration for [Velleman K8200](http://k8200.eu) ([3Drag](http://www.open-electronics.org/3drag-the-open-electronics-way-to-reprap/)) with Auto bed Leveling enabled.
+
+Parts for the K8200 can be found on [Thingiverse](http://www.thingiverse.com/thing:262892).
+
+
 Marlin 3D Printer Firmware
 ==========================
 Marlin has a GPL license because I believe in open development.
